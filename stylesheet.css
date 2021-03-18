@@ -20,9 +20,12 @@ body {
     display: block;
 }
 
+ul {
+    padding: 0 10px;
+}
 li {
     display: inline-block;
-    margin: 5px;
+    margin: 10px 5px;
 }
 
 li>a {
